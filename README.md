@@ -33,6 +33,7 @@ else:
 Enter the student's name: Rahul
 Rahul's marks are: 76
 
+---
 
 ## 📘 Program 2: List Operations (Original, Extracted, and Reversed)
 
@@ -44,6 +45,7 @@ Reverse these extracted elements.
 Print the original list, the extracted list, and the reversed list.
 
 ### Code:
+```python
 numbers = list(range(1, 11))
 
 first_five = numbers[:5]
